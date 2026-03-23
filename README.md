@@ -11,27 +11,13 @@ Travel Memory Map is a React + Leaflet travel diary app where users can save mem
 - UUID
 - OpenStreetMap Nominatim API
 
-## Screenshots
 
-Add screenshots in this section, for example:
-
-- `docs/screenshot-desktop.png`
-- `docs/screenshot-mobile.png`
 
 ## Installation
 
-```bash
-npm install
-npm run dev
-```
+make run
 
 ## Build for Production
 
-```bash
-npm run build
-```
+make build
 
-Netlify settings:
-
-- Build command: `npm run build`
-- Publish directory: `dist`

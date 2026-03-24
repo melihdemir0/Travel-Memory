@@ -70,20 +70,6 @@ npm run check
 - Photos are compressed before storage to reduce `localStorage` usage.
 - Memory locations are resolved from address input and saved with coordinates.
 
-## Screenshots
-
-You can place screenshots under a `docs/` folder and reference them here:
-
-- `docs/screenshot-desktop.png`
-- `docs/screenshot-mobile.png`
-
-Example:
-
-```md
-![Desktop view](docs/screenshot-desktop.png)
-![Mobile view](docs/screenshot-mobile.png)
-```
-
 ## Production Build
 
 ```bash
